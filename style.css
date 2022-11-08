@@ -10,7 +10,7 @@
    
 }
 body{
-    background-image:url('./img/servizio-azienda-consulenza.jpg');
+    background-image:url('.../img/servizio-azienda-consulenza.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
     flex-wrap: wrap;
